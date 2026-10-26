@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==============================================================================
-# Script Name: server_check.sh
+# Script Name: server-stats.sh
 # Description: Analyzes core server performance stats, resource utilization,
 #              system info, and recent security logs.
 # ==============================================================================
