@@ -14,6 +14,6 @@ Write a script to analyse basic server performance stats.
 ### 4-save the file
 > go to the end of the file and write :wq in a new line
 ### 5-make file executable
-> write chmod +x server-stats.sh
+> chmod +x server-stats.sh
 ### 6-run the file
 > ./server-stats.sh
